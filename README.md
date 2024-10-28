@@ -1,4 +1,6 @@
-Based on your background and the technical environment at the Zenlyt AI/ML lab, here is a list of technical and mental skills that would help you thrive and maintain consistency in rapid MVP development for AI/ML applications in e-commerce:
+# BREAD AND BUTTER MASTERY According to ChatGPT.
+
+## A list of technical and mental skills that would help you thrive and maintain consistency in rapid MVP development for AI/ML applications in e-commerce:
 
 ### Technical Skills
 
@@ -42,7 +44,7 @@ Based on your background and the technical environment at the Zenlyt AI/ML lab, 
 
 These skills will support the dynamic, experimentation-driven development cycle at Zenlyt, enabling you to deliver impactful, real-world solutions efficiently. Let me know if you'd like resources or a deeper dive into any specific area.
 
-
+##  Technical and Mental
 Here’s a tabular overview of the technical and mental skills, rated for difficulty and importance on a scale of 1 to 10, sorted by importance:
 
 | Skill                              | Type       | Difficulty (1-10) | Importance (1-10) |
@@ -68,7 +70,7 @@ Here’s a tabular overview of the technical and mental skills, rated for diffic
 
 The most critical skills for a rapid MVP development lab are adaptability, problem-solving, CI/CD automation, and resilience under pressure. These are high on importance to meet the lab’s velocity-driven environment, though some vary in difficulty.
 
-
+## Key Technologies
 Here’s a list of key technologies needed for rapid AI/ML MVP development in the Zenlyt lab environment, rated by complexity and importance on a scale of 1 to 10, sorted by importance:
 
 | Technology                   | Complexity (1-10) | Importance (1-10) |
@@ -102,6 +104,7 @@ Here’s a list of key technologies needed for rapid AI/ML MVP development in th
 
 This stack covers the end-to-end technical needs of rapid MVP development, with a focus on modularity, scalability, and deployment agility. Let me know if you’d like a deeper look into any technology!
 
+## AI/ML Concepts
 Here’s a list of AI/ML models, techniques, and platforms that would be valuable for rapid MVP development in the Zenlyt lab, rated by complexity and importance, sorted by importance:
 
 | AI/Model/Platform             | Complexity (1-10) | Importance (1-10) |
@@ -133,7 +136,7 @@ Here’s a list of AI/ML models, techniques, and platforms that would be valuabl
 
 These AI/ML tools and platforms enhance the lab's capability to rapidly develop solutions addressing real-world problems in e-commerce. Let me know if you'd like insights into implementation specifics!
 
-
+## AI/ML Models
 Here’s a list of recommended AI/ML models and libraries for various common domains, rated by complexity and importance on a scale of 1 to 10, sorted by importance:
 
 | Domain           | Model/Library                   | Complexity (1-10) | Importance (1-10) |
@@ -171,7 +174,8 @@ Here’s a list of recommended AI/ML models and libraries for various common dom
 These libraries and models provide a comprehensive toolkit for building diverse AI/ML MVPs rapidly and are widely used across various applications in computer vision, NLP, agents, and retrieval-based architectures. Let me know if you need implementation guidance for any of these.
 
 
-Here’s a list of the essential "bread and butter" technologies that are foundational for success in the Zenlyt AI/ML lab, particularly for rapid MVP development in AI applications. These are rated by complexity and importance on a scale of 1 to 10, and sorted by importance. These technologies are non-negotiable for excelling in a fast-paced, hackathon-style AI lab environment.
+## BnB Tech
+Here’s a list of the essential "bread and butter" technologies that are foundational for success in the AI/ML lab, particularly for rapid MVP development in AI applications. These are rated by complexity and importance on a scale of 1 to 10, and sorted by importance. These technologies are non-negotiable for excelling in a fast-paced, hackathon-style AI lab environment.
 
 | Technology                  | Complexity (1-10) | Importance (1-10) |
 |-----------------------------|--------------------|--------------------|
@@ -212,7 +216,7 @@ Here’s a list of the essential "bread and butter" technologies that are founda
 
 Mastery of these technologies equips you with the essential toolkit to operate smoothly, adapt quickly, and contribute effectively in an MVP-focused, velocity-driven lab. Let me know if you need deeper insights or additional resources for any of these!
 
-
+## Signposts To Failure
 Here's a list of common causes of failure in rapid development environments, rated by complexity to resolve and impact on project success (1-10), sorted by impact. Addressing these issues proactively is crucial to maintain high productivity and meet deadlines effectively.
 
 | Cause of Failure                           | Complexity to Resolve (1-10) | Impact on Success (1-10) |
@@ -252,7 +256,7 @@ Here's a list of common causes of failure in rapid development environments, rat
 
 Identifying and proactively addressing these issues ensures a smoother, more productive rapid development cycle, helping deliver high-quality MVPs within tight deadlines. Let me know if you need strategies for mitigating any specific issue!
 
-
+## Signposts To Success
 Here's a list of factors that contribute to successful rapid development, rated by ease of implementation and impact on project success (1-10), sorted by impact. These factors are essential for maintaining productivity, quality, and consistency in a fast-paced development environment.
 
 | Success Factor                           | Ease of Implementation (1-10) | Impact on Success (1-10) |
